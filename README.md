@@ -3,7 +3,8 @@
 <p>Hi, I'm Oh-hyerin who want to be a developer drawing cool codes</p>
 <div>
 <h4>skills</h4>
-<img src="https://img.shields.io/badge/javascript-8A2BE2"/>
+<img src="https://img.shields.io/badge/javascript-yellow"/>
+<img src="https://img.shields.io/badge/typescript-blue"/>
 <img src="https://img.shields.io/badge/react-skyblue"/>
 <br/>
 <h4>study blog</h4>
