@@ -1,4 +1,5 @@
-<div display="center">
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:9d2eff,100:2eceff&text=계속%20성장하는%20FE%20developer&fontColor=ffffff&fontSize=30 )
+9d2eff 2e5fff
 <p>안녕하세요.😊 멋진 코드를 그리는 개발자가 되고 싶은 오혜린입니다.✨</p>
 <p>Hi, I'm Oh-hyerin who want to be a developer drawing cool codes</p>
 <div>
