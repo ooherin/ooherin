@@ -10,8 +10,11 @@
 <a href="https://velog.io/@roseis00"><img src="https://img.shields.io/badge/velog-black"/></a>
 <a href="https://www.notion.so/f9277a6c5ec64841af50fc5372fb4a90?v=54d7fa4a932a4eb0bb286a31d6953a27"><img src="https://img.shields.io/badge/notion-white"/></a>
 <br/>
+<h4>reach me</h4> 
+✉ 555ohr@gmail.com
 <br/>
-  
+<br/>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ooherin&show_icons=true&theme=radical)
 <br/>
 </div>
