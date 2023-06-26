@@ -1,6 +1,6 @@
 <div display="center">
 <p>안녕하세요. 멋진 코드를 그리는 개발자가 되고 싶은 오혜린입니다.✨</p>
-<p>Hi, I'm Oh-hyrin who want to be a developer drawing cool codes</p>
+<p>Hi, I'm Oh-hyerin who want to be a developer drawing cool codes</p>
 <div>
 <h4>skills</h4>
 <img src="https://img.shields.io/badge/javascript-8A2BE2"/>
