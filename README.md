@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/react-skyblue"/>
 <br/>
 <h4>study blog</h4>
-<a href="www.notion.so/shy-tellurium-52b"><img src="https://img.shields.io/badge/notion-white"/></a>
+<a href="shy-tellurium-52b.notion.site"><img src="https://img.shields.io/badge/notion-white"/></a>
 <a href="https://velog.io/@roseis00"><img src="https://img.shields.io/badge/velog-black"/></a>
 <h4>experience</h4>
 <p>(2023)이화여대 웹개발 동아리 Efub 3기 프론트엔드 인턴</p>
