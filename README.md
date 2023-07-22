@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:fcf9bd,100:2eceff&text=FE%20developer,%20%20Hyerin&fontColor=ffffff&fontSize=30 )
 
 <p>Hi, I'm Oh-hyerin who want to be a developer drawing cool codes✨ </p>
-<div>
+<div align="center">
 <h4>skills</h4>
 <img src="https://img.shields.io/badge/javascript-yellow"/>
 <img src="https://img.shields.io/badge/typescript-blue"/>
