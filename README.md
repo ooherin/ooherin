@@ -1,5 +1,7 @@
+<div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:fcf9bd,100:2eceff&text=FE%20developer,%20%20Hyerin&fontColor=ffffff&fontSize=30 )
-
+  
 <p>Hi, I'm Oh-hyerin who want to be a developer drawing cool codes✨ </p>
 <div align="center">
 <h4>skills</h4>
@@ -18,6 +20,7 @@
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ooherin&layout=compact">
 <br/>
+<br/>  
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ooherin&show_icons=true&theme=radical)
 <br/>
