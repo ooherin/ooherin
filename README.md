@@ -8,6 +8,7 @@
 <img src="https://img.shields.io/badge/javascript-yellow"/>
 <img src="https://img.shields.io/badge/typescript-blue"/>
 <img src="https://img.shields.io/badge/react-skyblue"/>
+<img src="https://img.shields.io/badge/python-grey"/>
 <br/>
 <h4>study blog</h4>
 <a href="https://shy-tellurium-52b.notion.site/b4c114077a2a46648ea08855cb2d1684?pvs=4"><img src="https://img.shields.io/badge/notion-white"/></a>
