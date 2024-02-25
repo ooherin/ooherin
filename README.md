@@ -8,13 +8,14 @@
 <img src="https://img.shields.io/badge/javascript-yellow"/>
 <img src="https://img.shields.io/badge/typescript-blue"/>
 <img src="https://img.shields.io/badge/react-skyblue"/>
-<img src="https://img.shields.io/badge/python-gray"/>
 <br/>
 <h4>study blog</h4>
 <a href="https://shy-tellurium-52b.notion.site/b4c114077a2a46648ea08855cb2d1684?pvs=4"><img src="https://img.shields.io/badge/notion-white"/></a>
 <a href="https://velog.io/@roseis00"><img src="https://img.shields.io/badge/velog-black"/></a>
 <h4>experience</h4>
-<p>(2023)이화여대 웹개발 동아리 Efub 3기 프론트엔드 개발자</p>
+<p>(2023.3 - 2023.12)이화여대 웹개발 동아리 Efub 3기 프론트엔드 개발자</p>
+<p>(2023.12 - 2024.2)MOBI 2기 교육 수료</p>
+<p>(2024.2 - 2024.11)우아한테크코스 프론트엔드 6기</p>
 <h4>reach me</h4> 
 ✉ 555ohr@gmail.com
   
