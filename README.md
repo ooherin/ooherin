@@ -5,6 +5,8 @@
 <p>Hi, I'm Oh-hyerin who want to be a developer drawing cool codes✨ </p>
 
 <h4>writing</h4>
+<a href="https://velog.io/@roseis00"><img src="https://img.shields.io/badge/velog-black"/></a>
+<br/>
 
 ![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/roseis00)
 
